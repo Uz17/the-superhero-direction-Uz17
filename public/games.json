@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Carbon Matt",
+        "publisher": "LS2 Helmets",
+        "rating": 5,
+        "price": 100,
+        "description": "LS2 Helmets are one of the few choices in the safety helmet industry which gives you the best of both worlds. The Helmets can be bought on a good budget. Their material is light, absorbable, and made super flexible to capture a lot of energy.",
+        "image": "https://i.ibb.co/0qbDnFm/22019-2019-IMG-D9-D7-BC-D94-F77-4-B4830-930-C2-B-D1-BB06-A9-EDDD.jpg?crop=0.800xw:1xh;center,top&resize=768:*"
+    },
+    {
+        "id": 2,
+        "title": "Targo Truck",
+        "publisher": "MT Helmets",
+        "rating": 4.3,
+        "price": 80.5,
+        "description": "The MT Targo Truck Pro Helmet has a shell made of Injected Polycarbonate shell for better protection. A multi-density inner EPS, designed for better impact absorption. The helmet is dual certified (ECE R-22.05 & DOT) and has a chin strap with D-ring fastener.",
+        "image": "https://i.ibb.co/Qj2jRC3/0-0017-RIGELA5-ESCORZO.png?crop=1xw:0.995xh;center,top&resize=768:*"
+    },
+    {
+        "id": 3,
+        "title": "Targo RedGold",
+        "publisher": "MT Helmets",
+        "rating": 4.6,
+        "price": 82.99,
+        "description": "The MT Targo RedGold Pro Helmet has a shell made of Injected Polycarbonate shell for better protection. A multi-density inner EPS, designed for better impact absorption. The helmet is dual certified (ECE R-22.05 & DOT) and has a chin strap with D-ring fastener.",
+        "image": "https://i.ibb.co/55V4bLL/0-0000-TRUCKA2-ESCORZO.png?crop=1.00xw:0.965xh;0,0.00865xh&resize=768:*"
+    },
+    {
+        "id": 4,
+        "title": "Leopard TT",
+        "publisher": "KYT Helmets",
+        "rating": 3,
+        "price": 100.99,
+        "description": "KYT NFJ motorcycle helmet LEOPARD JAUME MASIA edition has Spanish flag on top of the helmet. With LEOPARD racing team hence the word LEOPARD is prominently displayed on the bottom left.",
+        "image": "https://i.ibb.co/VQNN4CK/TT-course-Dallaporta-Replica-3.jpg?crop=1xw:0.995xh;center,top&resize=768:*"
+    },
+    {
+        "id": 5,
+        "title": "Kombat Ride",
+        "publisher": "Caberrg Helmets",
+        "rating": 4,
+        "price": 72.49,
+        "description": "Italian made Caberg motorcycle Helmets, for every style of rider. For over 20 years Caberg have been at the forefront of technical evolution and stylistic.",
+        "image": "https://i.ibb.co/b7VkCgK/Caberg-Drift-evo-new-2-400x.jpg?crop=0.990xw:0.980xh;0.00253xw,0.00800xh&resize=768:*"
+    },
+    {
+        "id": 6,
+        "title": "Eagle Dream",
+        "publisher": "Axxis Helmets",
+        "rating": 5,
+        "price": 20.23,
+        "description": "AXXIS Helmets is the Spanish-born motorcycle helmet brand that begins its lifeline in 2010 headquartering in Cartagena, Spain.",
+        "image": "https://i.ibb.co/nnGQ7PY/7-Full-Face-helmet-Axxis-Eagle-Dream-Black.webp?crop=1.00xw:0.996xh;0,0.00400xh&resize=768:*"
+    },
+    {
+        "id": 7,
+        "title": "AirFrame Pro",
+        "publisher": "BilMola Helmets",
+        "rating": 5,
+        "price": 128.69,
+        "description": "Bilmola specialized in innovative and safe Helmets providing full-face, modular and off-road Helmets in Bangkok and more.  ",
+        "image": "https://i.ibb.co/HGgVSc5/Airframe-Pro-Beastie-Bunny-Pink-Profile.jpg?crop=1.00xw:0.774xh;0,0.144xh&resize=768:*"
+    },
+    {
+        "id": 8,
+        "title": "Bilmola Classical",
+        "publisher": "BilMola Helmets",
+        "rating": 4.3,
+        "price": 130.69,
+        "description": "Bilmola specialized in innovative and safe Helmets providing full-face, modular and off-road Helmets in Bangkok and more.  ",
+        "image": "https://i.ibb.co/KN9krvh/img-NEX-OCTO-BLUE-S.jpg?crop=1.00xw:0.998xh;0,0.00200xh&resize=768:*"
+    },
+    {
+        "id": 9,
+        "title": "KYT MATT Red",
+        "publisher": "KYT Helmets",
+        "rating": 5,
+        "price": 123.59,
+        "description": "KYT Helmet - NF-J Motion Matt Red Fluo. ... allow to air flow intake an optimal ventilation into the helmet and a quickly exhaust of the hot air. ",
+        "image": "https://i.ibb.co/fDBr4LD/FLUX7.jpg?crop=1.00xw:0.998xh;0,0.00200xh&resize=768:*"
+    }
+]
